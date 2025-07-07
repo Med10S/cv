@@ -583,7 +583,7 @@
   \paragraphstyle
 }{%
   \par
-  \vspace{2mm}
+  \vspace{1mm}
 }
 
 % Define an environment for cventry
@@ -591,6 +591,7 @@
   \vspace{\acvSectionContentTopSkip}
   \begin{center}
 }{%
+  \vspace{3mm}
   \end{center}
 }
 % Define an entry of cv information
@@ -612,6 +613,8 @@
 \newenvironment{cvsubentries}{%
   \begin{center}
 }{%
+  \vspace{3mm}
+
   \end{center}
 }
 % Define a subentry of cv information
@@ -641,6 +644,7 @@
     \setlength{\extrarowheight}{0pt}
     \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} C{1.5cm} L{\textwidth - 4.0cm} R{2.5cm}}
 }{%
+
     \end{tabular*}
   \end{center}
 }
@@ -659,6 +663,7 @@
     \setlength{\extrarowheight}{0pt}
     \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} r L{\textwidth * \real{0.9}}}
 }{%
+
     \end{tabular*}
   \end{center}
 }
