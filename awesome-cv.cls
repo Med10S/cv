@@ -591,6 +591,8 @@
   \vspace{\acvSectionContentTopSkip}
   \begin{center}
 }{%
+  \vspace{4mm}
+
   \end{center}
 }
 % Define an entry of cv information
