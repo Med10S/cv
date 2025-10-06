@@ -1,0 +1,52 @@
+**Objet :** Candidature [Stage/Emploi] [Domaine] - Ingénieur Réseaux et Télécommunications
+
+Bonjour [Madame/Monsieur] [Nom],
+
+Je suis Mohammed Sbihi, étudiant en ingénierie des Réseaux et Télécommunications à l'ENSAF
+
+Passionné par [domaine d'activité de l'entreprise], je souhaiterais rejoindre vos équipes en tant que [stagiaire/employé] pour contribuer à vos projets innovants.
+
+**Mon profil :**
+- Expertise en cybersécurité (SOC, SIEM, analyse de menaces)
+- Compétences techniques : Linux, Windows Server, réseaux, scripting
+- Président du club SECOPS à l'ENSAF
+- Projets personnels en sécurité informatique
+
+**Ce que je recherche :**
+- Une opportunité d'appliquer mes connaissances techniques
+- Un environnement stimulant pour développer mes compétences
+- La possibilité de contribuer à des projets concrets
+
+Vous trouverez en pièce jointe mon CV détaillant mon parcours et mes réalisations.
+
+Je serais ravi d'échanger avec vous sur les opportunités disponibles et reste à votre disposition pour un entretien.
+
+Cordialement,
+
+Mohammed Sbihi
+Étudiant Ingénieur - ENSAF
+(+212) 636208830
+mohammedsbihi11@gmail.com
+LinkedIn: mohammed-sbihi
+GitHub: Med10S
+
+---
+
+**INSTRUCTIONS D'UTILISATION :**
+
+1. Remplacez [Stage/Emploi] par le type de poste recherché
+2. Remplacez [Domaine] par le secteur de l'entreprise (IT, Télécoms, Banque, etc.)
+3. Remplacez [Madame/Monsieur] [Nom] par le nom du destinataire
+4. Adaptez [domaine d'activité de l'entreprise] selon l'entreprise ciblée
+5. Personnalisez la section "Ce que je recherche" selon le poste
+
+**EXEMPLES D'ADAPTATION :**
+
+Pour un poste IT Support :
+- Objet : Candidature Stage Support Informatique - Ingénieur Réseaux et Télécommunications
+
+Pour une banque :
+- "Passionné par les technologies financières et la sécurité bancaire..."
+
+Pour une entreprise de télécoms :
+- "Passionné par les infrastructures réseau et les télécommunications..."

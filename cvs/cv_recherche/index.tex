@@ -18,18 +18,18 @@
 % CONFIGURATIONS
 %-------------------------------------------------------------------------------
 % A4 paper size by default, use 'letterpaper' for US letter
-\documentclass[11pt, a4paper]{awesome-cv}
+\documentclass[11pt, a4paper]{../../awesome-cv}
 
 % Configure page margins with geometry
 \geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=.8cm, footskip=.5cm}
 
 % Specify the location of the included fonts
-\fontdir[fonts/]
+% \fontdir[../../fonts/]
 
 % Color for highlights
 % Awesome Colors: awesome-emerald, awesome-skyblue, awesome-red, awesome-pink, awesome-orange
 %                 awesome-nephritis, awesome-concrete, awesome-darknight
-\colorlet{awesome}{awesome-red}
+\colorlet{awesome}{awesome-emerald}
 % Uncomment if you would like to specify your own color
 % \definecolor{awesome}{HTML}{CA63A8}
 
@@ -52,15 +52,16 @@
 %	Comment any of the lines below if they are not required
 %-------------------------------------------------------------------------------
 % Available options: circle|rectangle,edge/noedge,left/right
-\photo{./profile.png}
+\photo{../../profile.png}
 \name{Mohammed}{Sbihi}
-\address{Morocco - Fez}
+\address{Maroc - Fes}
 \mobile{+212 6 36 20 88 30}
-\email{mohammedsbihi11@gmaill.com}
+\email{mohammedsbihi11@gmail.com}
 \github{Med10S}
 \linkedin{mohammed-sbihi}
 \homepage{med10s.github.io}
-\quote{Looking for a Final Year Project (FYP) internship in Cybersecurity.}
+% \quote{Chercheur passionné par l'Intelligence Artificielle appliquée à la Cybersécurité et les Systèmes Distribués. Candidat Doctorat en Réseaux et Sécurité.}
+
 %-------------------------------------------------------------------------------
 \begin{document}
 
@@ -76,15 +77,17 @@
 %	CV/RESUME CONTENT
 %	Each section is imported separately, open each file in turn to modify content
 %-------------------------------------------------------------------------------
-\input{resume/resumer}
-\input{resume/education.tex}
-\input{resume/experience.tex}
-\input{resume/projects.tex}
-\input{resume/skills.tex}
-% \input{resume/honors.tex}
-\input{resume/extracurricular.tex}
-% \input{resume/writing.tex}
-% \input{resume/committees.tex}
+
+\input{resumer}
+\input{education.tex}
+\input{projects.tex}
+% \input{publications.tex}
+\input{experience.tex}
+\input{skills.tex}
+% \input{honors.tex}
+% \input{extracurricular.tex}
+% \input{writing.tex}
+% \input{committees.tex}
 
 
 %-------------------------------------------------------------------------------

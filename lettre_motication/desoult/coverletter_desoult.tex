@@ -1,0 +1,72 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+% Awesome CV LaTeX Template for Cover Letter
+
+%-------------------------------------------------------------------------------
+% CONFIGURATIONS
+%-------------------------------------------------------------------------------
+\documentclass[11pt, a4paper]{../../awesome-cv}
+\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
+\fontdir[../../fonts/]
+\colorlet{awesome}{awesome-red}
+\setbool{acvSectionColorHighlight}{true}
+\renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
+
+%-------------------------------------------------------------------------------
+%	PERSONAL INFORMATION
+%-------------------------------------------------------------------------------
+% Available options: circle|rectangle,edge/noedge,left/right
+\photo[circle,noedge,left]{../../profile.png}
+\name{Mohammed}{Sbihi}
+\position{Étudiant Ingénieur{\enskip\cdotp\enskip}Spécialisation en Cybersécurité}
+\address{Route Ain Chkef, Fes, Maroc}
+
+\mobile{(+212) 636208830}
+\email{mohammedsbihi11@gmail.com}
+\github{Med10S}
+\linkedin{mohammed-sbihi}
+\quote{À la recherche d'un stage de fin d'études en Cybersécurité}
+
+%-------------------------------------------------------------------------------
+%	LETTER INFORMATION
+%-------------------------------------------------------------------------------
+\recipient{Service de Recrutement}{Dassault Aviation\\Saint-Cloud / Mérignac\\France}
+\letterdate{12 septembre 2025}
+\lettertitle{Candidature pour le Stage en Cybersécurité du Soutien Aéronautique}
+\letteropening{Madame, Monsieur,}
+\letterclosing{Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.}
+\letterenclosure[Pièces jointes]{Curriculum Vitae}
+
+%-------------------------------------------------------------------------------
+\begin{document}
+
+% Print the header with above personal informations
+\makecvheader[R]
+
+% Print the footer with 3 arguments(<left>, <center>, <right>)
+\makecvfooter
+{12 septembre 2025}
+{Mohammed Sbihi~~~·~~~Lettre de Motivation}
+{}
+
+\makelettertitle
+
+\begin{cvletter}
+
+    Je vous écris pour exprimer mon vif intérêt pour le stage en Cybersécurité du Soutien Aéronautique au sein de Dassault Aviation. En tant qu'étudiant en 5ème année d'ingénierie en Réseaux et Télécommunications avec une spécialisation en cybersécurité à l'École Nationale des Sciences Appliquées de Fès (ENSAF), je suis particulièrement enthousiaste à l'idée de contribuer à la sécurisation des systèmes de soutien des avions Dassault Aviation.
+
+    Mon parcours académique et mes expériences pratiques m'ont permis de développer une solide expertise en cybersécurité et en architecture des systèmes. Lors de mon stage au Centre Hospitalier Universitaire de Fès, j'ai conçu et déployé un Centre des Opérations de Sécurité (SOC), intégré des solutions SIEM/SOAR, et automatisé les workflows de réponse aux incidents. Ces expériences m'ont permis de développer une approche méthodique de l'analyse des menaces et des vulnérabilités, compétences essentielles pour la mission proposée.
+
+    La perspective de travailler sur la typologie cyber du système de soutien des avions Dassault Aviation m'enthousiasme particulièrement. Mon expérience en cartographie des menaces, ma connaissance des référentiels de l'ANSSI et ma maîtrise des outils de modélisation me permettront de contribuer efficacement à l'analyse des scénarios d'usage critiques et à la définition des exigences de protection.
+
+    Ma formation en réseaux et ma passion pour l'environnement aéronautique, combinées à mes compétences en cybersécurité, constituent des atouts majeurs pour ce stage. En tant que président du club SECOPS à l'ENSAF, j'ai démontré ma capacité à travailler en équipe, à faire preuve de pédagogie et à gérer des projets complexes, qualités que je souhaite mettre au service de votre équipe d'Architectes du Soutien.
+
+    Je suis particulièrement motivé par l'opportunité de participer à la sécurisation des systèmes critiques dans le domaine aéronautique et de contribuer à la protection des avions Dassault Aviation. L'environnement technologique innovant de votre entreprise et la dimension stratégique des missions proposées correspondent parfaitement à mes aspirations professionnelles.
+
+    Je reste à votre disposition pour un entretien qui me permettra de vous présenter plus en détail ma motivation et mes compétences pour ce stage.
+
+\end{cvletter}
+
+\makeletterclosing
+
+\end{document}

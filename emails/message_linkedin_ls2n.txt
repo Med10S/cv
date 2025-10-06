@@ -1,0 +1,52 @@
+**Objet :** Stage PFE et Doctorat - Réseaux et Cybersécurité - LS2N Nantes
+
+Bonjour [Nom du Maître de Conférences],
+
+Je suis Mohammed Sbihi, étudiant en 5ᵉ année d'ingénierie des Réseaux et Télécommunications à l'ENSAF (École Nationale des Sciences Appliquées de Fès), avec une spécialisation en cybersécurité.
+
+Passionné par la recherche en sécurité des réseaux et systèmes distribués, je souhaiterais vivement effectuer mon stage de Projet de Fin d'Études (PFE) au sein du Laboratoire des Sciences du Numérique de Nantes (LS2N).
+
+**Mon parcours actuel :**
+- Développement d'un système de détection d'intrusion distribué utilisant l'IA (98.1% de précision)
+- Simulation et déploiement d'un SOC avec architecture DevOps
+- Président du club SECOPS - promotion de la cybersécurité
+- Compétences techniques : Python, Docker, Wazuh, SIEM, analyse de menaces
+
+**Mon projet :**
+L'approche systémique du LS2N et ses recherches sur les systèmes ouverts, communicants et ubiquitaires correspondent parfaitement à mes intérêts de recherche. Je suis particulièrement attiré par les problématiques de sécurité dans les systèmes distribués et les réseaux intelligents.
+
+**Objectif à long terme :**
+Mon ambition est de poursuivre en doctorat après ce stage PFE, afin d'approfondir mes recherches en cybersécurité des réseaux au sein de votre laboratoire.
+
+Seriez-vous disponible pour échanger sur les possibilités de stage et les orientations de recherche qui pourraient correspondre à mon profil ?
+
+Je reste à votre disposition pour tout complément d'information et serais honoré de pouvoir contribuer aux travaux du LS2N.
+
+Cordialement,
+
+Mohammed Sbihi
+Étudiant Ingénieur - ENSAF
+📧 mohammedsbihi11@gmail.com  
+📱 +212 6 36 20 88 30
+🔗 LinkedIn: mohammed-sbihi
+💻 GitHub: Med10S
+
+P.S. : Je peux me rendre disponible pour un entretien en visioconférence ou me déplacer à Nantes si nécessaire.
+
+---
+
+**VERSION COURTE LINKEDIN (si besoin) :**
+
+Bonjour [Nom],
+
+Étudiant finaliste en ingénierie Réseaux & Cybersécurité à l'ENSAF, je développe actuellement un système IDS avec IA (98.1% précision) et dirige le club SECOPS.
+
+Passionné par la recherche en sécurité des systèmes distribués, je souhaiterais effectuer mon PFE au LS2N et poursuivre en doctorat dans votre laboratoire.
+
+L'approche systémique du LS2N sur les systèmes communicants correspond parfaitement à mes intérêts de recherche.
+
+Seriez-vous disponible pour échanger sur les opportunités ?
+
+Cordialement,
+Mohammed Sbihi
+📧 mohammedsbihi11@gmail.com
