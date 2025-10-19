@@ -1,0 +1,31 @@
+%!TEX TS-program = xelatex
+
+% LinkoJob PFE-targeted CV
+\documentclass[11pt, a4paper]{../../awesome-cv}
+\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=.8cm, footskip=.5cm}
+\colorlet{awesome}{black}
+\setbool{acvSectionColorHighlight}{true}
+\renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
+
+\photo{../../profile.png}
+\name{Mohammed}{Sbihi}
+\address{Maroc - Fes}
+\mobile{+212 6 36 20 88 30}
+\email{mohammedsbihi11@gmail.com}
+\github{Med10S}
+\linkedin{mohammed-sbihi}
+\homepage{med10s.github.io}
+\quote{Recherche d'un stage PFE rémunéré en Data / Cloud — rapide à monter en compétences.}
+
+\begin{document}
+\makecvheader
+
+% Sections
+\input{resumer}
+\input{education.tex}
+\input{experience.tex}
+\input{projects.tex}
+\input{skills.tex}
+\input{../cv/extracurricular.tex}
+
+\end{document}

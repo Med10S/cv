@@ -1,0 +1,12 @@
+Objet : Candidature pour le stage en Gouvernance et Management de la Sécurité de l'Information
+
+Madame, Monsieur,
+
+Actuellement en 5ème année d'ingénierie des Réseaux et Télécommunications à l'ENSAF avec une spécialisation en cybersécurité, je souhaite candidater pour le stage en gouvernance SSI au sein de Hub One. Passionné par les enjeux fonctionnels de la sécurité de l'information, j'ai développé une expertise pratique en management des risques lors de mes projets de déploiement de SOC au CHU de Fès, où j'ai mis en place des processus de gouvernance et de conformité pour des infrastructures critiques.
+
+Mon expérience de président du club SECOPS m'a permis de développer mes compétences en leadership et en sensibilisation à la sécurité, coordonnant une équipe de 50+ étudiants et organisant des formations sur les standards de cybersécurité. Cette expérience, couplée à mes connaissances techniques en SIEM/SOAR et en analyse de risques, me donne une vision globale des enjeux de gouvernance SSI que je souhaite approfondir dans un environnement professionnel exigeant comme Hub One.
+
+Motivé par votre expertise en transformation numérique et par la perspective de contribuer au renouvellement de votre certification ISO 27001, je suis convaincu que ce stage de 2 ans me permettra de développer mes compétences en conformité réglementaire (NIS2) et en management de la sécurité, tout en apportant ma rigueur technique et mon engagement au service de vos objectifs SSI.
+
+Cordialement,
+Mohammed Sbihi

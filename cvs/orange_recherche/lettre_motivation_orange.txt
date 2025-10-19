@@ -1,0 +1,12 @@
+Objet : Candidature pour le stage en Recherche et Protection de Documents - Orange Labs
+
+Madame, Monsieur,
+
+Actuellement en 5ème année d'ingénierie (équivalent Master 2) en Réseaux et Télécommunications à l'ENSAF avec spécialisation en cybersécurité, je souhaite candidater pour le stage PFE en recherche et protection de documents au sein d'Orange Labs. Passionné par l'innovation en sécurité des données, j'ai développé une expertise en R&D à travers mes projets de développement de systèmes de détection par Machine Learning (98.1% de précision) et la création de prototypes sécurisés, notamment lors de mon stage au CHU de Fès où j'ai conçu des solutions de protection avancées.
+
+Mon expérience de président du club SECOPS m'a permis de diriger des projets de recherche collaboratifs et de développer des compétences en prototypage rapide, supervisant le développement de PoC innovants avec une équipe de 50+ étudiants. Cette approche de recherche appliquée, combinée à mes compétences techniques en développement logiciel (Python, JavaScript) et en traitement de données, me donne une vision complète des enjeux de sécurisation des documents numériques et de l'expérience utilisateur que je souhaite approfondir dans un environnement de recherche d'excellence comme Orange.
+
+Motivé par la perspective de contribuer à un projet innovant à fort impact pour le grand public, je suis convaincu que ce stage de 6 mois me permettra d'appliquer ma passion pour la recherche en cybersécurité tout en développant des solutions concrètes de protection de documents, intégrant les meilleures pratiques de sécurité avec une expérience utilisateur optimisée pour démocratiser la sécurité numérique.
+
+Cordialement,
+Mohammed Sbihi

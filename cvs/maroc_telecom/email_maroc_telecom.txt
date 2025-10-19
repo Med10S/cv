@@ -1,0 +1,27 @@
+Objet : Candidature pour un stage PFE en Cybersécurité
+
+Bonjour,
+
+Je suis Mohammed Sbihi, élève ingénieur en 5ᵉ année Réseaux et Télécommunications à l'ENSAF, spécialisé en cybersécurité.
+
+Je recherche actuellement un stage de Projet de Fin d'Études (PFE) de 6 mois à partir de février 2026, et je souhaite vivement intégrer une équipe SOC au sein de Maroc Telecom.
+
+Mon profil combine :
+• Expérience pratique en développement SOC/SIEM (CHU de Fès)
+• Compétences en détection d'intrusions, analyse d'incidents et monitoring de sécurité
+• Maîtrise des outils SIEM (Wazuh, TheHive, MISP) et technologies réseau
+• Leadership du club SECOPS à l'ENSAF avec 50+ membres
+
+Je suis passionné par la protection des infrastructures critiques et la détection intelligente des menaces. Ma capacité d'apprentissage rapide et mon expérience en environnement SOC me permettront de contribuer efficacement à vos équipes de cybersécurité.
+
+Vous trouverez ci-joint mon CV détaillant mes expériences et compétences techniques.
+
+Je reste à votre disposition pour un entretien afin de discuter de ma motivation et de la manière dont je peux contribuer à la sécurité de Maroc Telecom.
+
+Cordialement,
+
+Mohammed Sbihi
++212 6 36 20 88 30
+mohammedsbihi11@gmail.com
+LinkedIn : linkedin.com/in/mohammed-sbihi
+GitHub : github.com/Med10S

@@ -1,0 +1,168 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+% Awesome CV LaTeX Template for Cover Letter
+%
+% This template has been downloaded from:
+% https://github.com/posquit0/Awesome-CV
+%
+% Authors:
+% Claud D. Park <posquit0.bj@gmail.com>
+% Lars Richter <mail@ayeks.de>
+%
+% Template license:
+% CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+%
+
+
+%-------------------------------------------------------------------------------
+% CONFIGURATIONS
+%-------------------------------------------------------------------------------
+% A4 paper size by default, use 'letterpaper' for US letter
+\documentclass[11pt, a4paper]{awesome-cv}
+
+% Configure page margins with geometry
+\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
+
+% Specify the location of the included fonts
+\fontdir[fonts/]
+
+% Color for highlights
+% Awesome Colors: awesome-emerald, awesome-skyblue, awesome-red, awesome-pink, awesome-orange
+%                 awesome-nephritis, awesome-concrete, awesome-darknight
+\colorlet{awesome}{awesome-red}
+% Uncomment if you would like to specify your own color
+% \definecolor{awesome}{HTML}{CA63A8}
+
+% Colors for text
+% Uncomment if you would like to specify your own color
+% \definecolor{darktext}{HTML}{414141}
+% \definecolor{text}{HTML}{333333}
+% \definecolor{graytext}{HTML}{5D5D5D}
+% \definecolor{lighttext}{HTML}{999999}
+
+% Set false if you don't want to highlight section with awesome color
+\setbool{acvSectionColorHighlight}{true}
+
+% If you would like to change the social information separator from a pipe (|) to something else
+\renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
+
+
+%-------------------------------------------------------------------------------
+%	PERSONAL INFORMATION
+%	Comment any of the lines below if they are not required
+%-------------------------------------------------------------------------------
+% Available options: circle|rectangle,edge/noedge,left/right
+\photo{./profile.png}
+\name{Mohammed}{SBIHI}
+\position{Engineering Student{\enskip\cdotp\enskip}5th Year}
+\address{Fez, Morocco}
+
+\mobile{(+212) 612-345-678}
+\email{mohammed.sbihi@example.com}
+%\homepage{www.posquit0.com}
+\github{Med10S}
+\linkedin{mohammed-sbihi}
+% \gitlab{gitlab-id}
+% \stackoverflow{SO-id}{SO-name}
+% \twitter{@twit}
+% \skype{skype-id}
+% \reddit{reddit-id}
+% \medium{madium-id}
+% \googlescholar{googlescholar-id}{name-to-display}
+%% \firstname and \lastname will be used
+% \googlescholar{googlescholar-id}{}
+% \extrainfo{extra informations}
+
+%\quote{``Be the change that you want to see in the world."}
+
+
+%-------------------------------------------------------------------------------
+%	LETTER INFORMATION
+%	All of the below lines must be filled out
+%-------------------------------------------------------------------------------
+% The company being applied to
+\recipient
+  {Recruitment Team}
+  {DISP Laboratory - INSA Lyon\\Bâtiment Blaise Pascal\\7 avenue Jean Capelle\\69621 Villeurbanne CEDEX\\France}
+% The date on the letter, default is the date of compilation
+\letterdate{\today}
+% The title of the letter
+\lettertitle{Application for Research Internship - ANR JUNEAU Project\\Digital Twin Modeling for Hospital Emergency Services}
+% How the letter is opened
+\letteropening{Dear Professor Cheutet,}
+% How the letter is closed
+\letterclosing{Sincerely,}
+% Any enclosures with the letter
+\letterenclosure[Attached]{Curriculum Vitae, Academic Transcripts}
+
+
+%-------------------------------------------------------------------------------
+\begin{document}
+
+% Print the header with above personal informations
+% Give optional argument to change alignment(C: center, L: left, R: right)
+\makecvheader[R]
+
+% Print the footer with 3 arguments(<left>, <center>, <right>)
+% Leave any of these blank if they are not needed
+\makecvfooter
+{\today}
+{Mohammed SBIHI~~~·~~~Cover Letter}
+{}
+
+% Print the title with above letter informations
+\makelettertitle
+
+%-------------------------------------------------------------------------------
+%	LETTER CONTENT
+%-------------------------------------------------------------------------------
+\begin{cvletter}
+
+    \lettersection{Why INSA Lyon and the ANR JUNEAU Project}
+
+    I am writing to express my strong interest in the 6-month research internship (February-July 2026) at the DISP Laboratory, focusing on the modeling and computer implementation of a Digital Twin for hospital emergency services.
+
+    Although I am currently in my \textbf{5th year} of Engineering (not M2), I am deeply motivated by this research opportunity and confident in my ability to contribute meaningfully to the ANR JUNEAU project. The prospect of working on \textbf{innovative healthcare applications} combining software engineering, simulation, and holonic architectures perfectly aligns with my technical interests and career aspirations in applied research.
+
+    My recent internship at the \textbf{University Hospital Center (CHU) of Fez}, where I developed a complete SOC/SIEM platform for critical hospital infrastructure, has given me valuable insight into healthcare systems' complexity and the importance of robust, well-designed technical solutions for this sensitive domain.
+
+    \lettersection{Rapid Learning Capacity and Transferable Skills}
+
+    While I have not yet worked specifically with Digital Twins, I am confident in my ability to \textbf{quickly master new technologies and concepts}. My academic and professional track record demonstrates this capacity:
+
+    \begin{itemize}
+        \item \textbf{Distributed systems mastery:} I designed and implemented a multi-agent intrusion detection system with coordinator/worker patterns, similar to holonic architectures, achieving 98.1\% detection accuracy.
+        \item \textbf{Hospital infrastructure experience:} During my CHU internship, I rapidly learned the SIEM/SOAR ecosystem (Wazuh, TheHive, MISP) and integrated these complex systems for real-time monitoring.
+        \item \textbf{Strong software engineering foundation:} Proficient in Java (OOP), Python, with solid experience in SQL databases, REST APIs, and Docker containerization—all relevant for the internship requirements.
+        \item \textbf{System modeling and architecture:} Experience in designing complex distributed architectures, API integration, and process modeling, providing a solid foundation for Digital Twin development.
+    \end{itemize}
+
+    I am committed to \textbf{intensive preparation} before the internship starts: I will dedicate time to self-study UML, BPMN, and multi-agent simulation concepts to hit the ground running in February 2026.
+
+    \lettersection{What I Bring to the Project}
+
+    Beyond technical skills, I offer:
+
+    \begin{itemize}
+        \item \textbf{Research mindset:} As President of SECOPS Club (50+ members), I promote research culture and encourage innovative technical projects.
+        \item \textbf{Problem-solving approach:} Proven ability to tackle complex challenges, as demonstrated by my work on distributed security systems and full-stack applications.
+        \item \textbf{Healthcare sensitivity:} Understanding of critical infrastructure requirements from my CHU experience, ensuring reliable and secure implementations.
+        \item \textbf{Strong work ethic:} Self-motivated learner who thrives in research environments and is passionate about applying technology to real-world healthcare challenges.
+        \item \textbf{Collaborative skills:} Experience with Git workflows, code reviews, technical documentation, and team coordination.
+    \end{itemize}
+
+    \lettersection{Commitment and Availability}
+
+    I am \textbf{fully available for 6 months} (February-July 2026) and highly motivated to contribute to advancing healthcare innovation through Digital Twins and AI. This internship represents a unique opportunity to apply my engineering skills to meaningful research while developing expertise in simulation and holonic architectures.
+
+    I would be honored to discuss how my profile, rapid learning capacity, and strong motivation can contribute to the success of the ANR JUNEAU project. I am available for an interview at your convenience.
+
+    Thank you for considering my application despite not being in M2. I am confident that my engineering background, demonstrated learning agility, and genuine passion for this research make me a valuable candidate.
+
+\end{cvletter}
+
+%-------------------------------------------------------------------------------
+% Print the signature and enclosures with above letter informations
+\makeletterclosing
+
+\end{document}
